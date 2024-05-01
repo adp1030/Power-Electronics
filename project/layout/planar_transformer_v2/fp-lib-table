@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "planar_transformer")(type "KiCad")(uri "${KIPRJMOD}/planar_transformer.pretty")(options "")(descr ""))
+)
